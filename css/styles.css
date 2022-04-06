@@ -1,0 +1,61 @@
+.attribution {
+  font-size: 11px; text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.main-container{
+  background-color: #d2deec;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+  position: relative;
+  padding: 2%;
+
+}
+.img{
+  border-radius: 5%;
+  width: 300px;
+  height: 300px;
+}
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+}
+p{
+  color: #a3a7b0;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 1.3rem;
+}
+.first{
+  color: black;
+  font-weight: bolder;
+  width: 80%;
+  margin: auto;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.second{
+  font-size: 1rem;
+  width: 80%;
+  margin: auto;
+}
+.inner{
+  position: static;
+  border-top: 2%;
+  border-bottom: 2%;
+  background-color: hsl(0, 0%, 100%);
+  padding-top: 2%;
+  padding-bottom: 4%;
+  border-top-left-radius: 20px 20px;
+  border-top-right-radius: 20px 20px;
+  border-bottom-left-radius: 20px 20px;
+  border-bottom-right-radius: 20px 20px;
+  width: 40%;
+  margin: auto;
+}
